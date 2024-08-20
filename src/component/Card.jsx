@@ -4,7 +4,7 @@ const Card = () => {
       <div className="card-container">
         <div className="card-content w-327 h-543 rounded-[15px] bg-very-dark-blue-card p-6 flex flex-col gap-6 xl:w-350 xl:h-596 xl:pb-8">
           <div className="content-image relative w-278 h-278 overflow-hidden rounded-[8px] xl:w-302 xl:h-302">
-            <img className="w-full h-full hover:bg-cyan hover:cursor-pointer" src="/images/image-equilibrium.jpg" loading="lazy" decoding="async" alt="image equilibrium"/>
+            <img className="w-full h-full hover:bg-cyan hover:cursor-pointer" src="./images/image-equilibrium.jpg" loading="lazy" decoding="async" alt="image equilibrium"/>
             <div className="text-white flex justify-center items-center background-image absolute inset-0 bg-cyan opacity-0 hover:opacity-70 focus:opacity-70 active:opacity-70 hover:cursor-pointer transition-opacity" tabIndex={0}>
               <svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
                 <g fill="none" fillRule="evenodd">
@@ -44,7 +44,7 @@ const Card = () => {
             <hr className="border-very-dark-blue"/>
             <div className="main-avatar flex gap-4">
               <div className="avatar-container w-33 h-33 rounded-full border-[1px] border-white overflow-hidden">
-                <img className="w-full h-full" src="/images/image-avatar.png" loading="lazy" decoding="async" alt="image profile"/>
+                <img className="w-full h-full" src="./images/image-avatar.png" loading="lazy" decoding="async" alt="image profile"/>
               </div>
               <div className="main-autor flex items-center gap-[5px]">
                 <p className="text-soft-blue text-15 leading-19 xl:text-16 xl:leading-20">
@@ -54,7 +54,6 @@ const Card = () => {
                     Jules Wyvern
                 </span>
               </div>
-             
             </div>
           </div>
         </div>
