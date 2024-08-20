@@ -16,7 +16,7 @@ const Card = () => {
           </div>
           <div className="content-main flex flex-col gap-4 xl:gap-6">
             <div className="main-description flex flex-col gap-3">
-              <h1 className="text-white text-22 leading-28 hover:text-cyan focus:text-cyan active:text-cyan hover:cursor-pointer" tabIndex={0}>
+              <h1 className="text-white text-22 leading-28 font-semibold hover:text-cyan focus:text-cyan active:text-cyan hover:cursor-pointer" tabIndex={0}>
                 Equilibrium #3429
               </h1>
               <p className="text-soft-blue text-18 leading-26 font-light">
