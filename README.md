@@ -41,8 +41,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-nft-preview-card-react-tailwind-3izdxHDM1F](https://your-solution-url.com)
+- Live Site URL: [https://waquintero-ia.github.io/NTF/](https://your-live-site-url.com)
 
 ## Author
 
